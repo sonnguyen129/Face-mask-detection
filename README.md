@@ -2,4 +2,4 @@
 ## Training process
 ![plot](plot.png) 
 ## Results
-![result](example_05.jpg)
+![result](examples/example_05.png)
