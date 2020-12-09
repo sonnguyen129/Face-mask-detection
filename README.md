@@ -5,15 +5,15 @@
 * Python
 * OpenCV
 * Tensorflow
-
+* Recommend: Ubuntu(OS)
 
 ## Training process
 ![plot](plot.png) 
 ## Results
 ### No mask
-![result](demo/demo_02.png)
+![result1](demo/demo_02.png)
 ### With mask
-![result1](demo/demo_03.png)
+![result2](demo/demo_03.png)
 ## Usage
 ### Step 1:
 Clone this repository
