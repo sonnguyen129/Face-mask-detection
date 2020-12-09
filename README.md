@@ -13,7 +13,7 @@
 ### No mask
 ![result](demo/demo_02.png)
 ### With mask
-![result](demo/demo_03.png)
+![result1](demo/demo_03.png)
 ## Usage
 ### Step 1:
 Clone this repository
