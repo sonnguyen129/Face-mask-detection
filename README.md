@@ -7,8 +7,6 @@
 * Tensorflow
 * Recommend: Ubuntu(OS)
 
-## Training process
-![plot](plot.png) 
 ## Results
 ### No mask
 ![result1](demo/demo_2.png)
@@ -28,7 +26,7 @@ Predict with images
 $ python detect_mask_image.py --image examples/[image-name].png
 ```
 ### Step 4:
-Predict with real-time video
+Predict with real-time video streams
 ```
 $ python detect_mask_video.py
 ```
