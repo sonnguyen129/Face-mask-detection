@@ -10,7 +10,9 @@
 ## Training process
 ![plot](plot.png) 
 ## Results
+### No mask
 ![result](demo/demo_02.png)
+### With mask
 ![result](demo/demo_03.png)
 ## Usage
 ### Step 1:
