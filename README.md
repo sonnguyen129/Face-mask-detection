@@ -10,10 +10,13 @@
 ## Training process
 ![plot](plot.png) 
 ## Results
+---
 ### No mask
 ![result1](demo/demo_02.png)
+---
 ### With mask
 ![result2](demo/demo_03.png)
+---
 ## Usage
 ### Step 1:
 Clone this repository
