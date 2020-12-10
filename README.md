@@ -1,5 +1,5 @@
 # face-mask-detection
-Đây là project nhận diện khuôn mặt đeo khẩu trang sử dụng OpenCV, Deep Learning. Project có tính ứng dụng rất phù hơp trong thời kì dịch Covid19 đang có diễn biến phức tạp trên toàn thế giới
+This is a face masks detection project using OpenCV, Deep Learning. The application project is very suitable in Covid19 translation period which is happening complicatedly around the world.
 ## Libraries
 
 * Python
