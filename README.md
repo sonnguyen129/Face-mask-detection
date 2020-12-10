@@ -1,5 +1,5 @@
 # face-mask-detection
-This is a face masks detection project using OpenCV, Deep Learning. The application project is very suitable in Covid19 translation period which is happening complicatedly around the world.
+This is a face masks detection project using OpenCV, Deep Learning. The application is very suitable in Covid19 translation period which is happening complicatedly around the world.
 ## Libraries
 
 * Python
